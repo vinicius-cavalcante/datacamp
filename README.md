@@ -1,2 +1,2 @@
-# datacamp-learning
-A repository with datacamp studies, notes and ipynb notebooks.
+# datacamp
+A repository with Datacamp notes and Jupyter notebooks :)
